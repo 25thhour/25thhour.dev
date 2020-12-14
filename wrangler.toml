@@ -1,0 +1,6 @@
+name = "hello-world"
+type = "javascript"
+account_id = "1dc651e6b820106747b44e0b0acdbb49"
+workers_dev = true
+route = "25thhour.dev/*"
+zone_id = "7774543604a00a05eb2374a87015e265"
